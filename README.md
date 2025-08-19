@@ -59,7 +59,7 @@ Sou apaixonado por tecnologia e pela aplicação de **IA, Machine Learning e Dee
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedro-rios66&show_icons=true&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pedro-rios66&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-rios66&layout=compact&theme=tokyonight)  
+
 
 ---
 
