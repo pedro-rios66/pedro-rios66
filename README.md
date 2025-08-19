@@ -54,15 +54,15 @@ Sou apaixonado por tecnologia e pela aplicação de **IA, Machine Learning e Dee
 
 ## 📊 Estatísticas do GitHub  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=SEU-USUARIO&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedro-rios66&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-rios66&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=pedro-rios66&theme=tokyonight)  
 
 ---
 
 ## 🎓 Formação & Certificações
 🎓 Bacharelado em Ciência da Computação – PUC Goiás  
-📜 Certificações: MIT, IBM, Google, Microsoft, Santander (IA, Data Science, Cybersecurity, Azure, etc.)  
+📜 Certificados/Certificações: MIT, IBM, Google, Microsoft, Santander (IA, Data Science, Cybersecurity, Azure, etc.)  
 
 ---
 
