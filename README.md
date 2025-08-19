@@ -1,12 +1,12 @@
 # 👋 Olá, eu sou Pedro!  
 
-🚀 Engenheiro de Inteligência Artificial | Desenvolvedor Full Stack | Cientista de Dados  
+💻 Engenheiro de Inteligência Artificial | Desenvolvedor Full Stack | Cientista de Dados  
 
 Sou apaixonado por tecnologia e pela aplicação de **IA, Machine Learning e Deep Learning** para resolver problemas reais. Tenho experiência em **desenvolvimento de sistemas end-to-end**, desde a concepção de modelos preditivos até a implementação de APIs e aplicações web escaláveis.  
 
 ---
 
-## 🛠️ Tech Stack  
+## 💻 Tech Stack  
 
 <p>
   <!-- Linguagens -->
@@ -69,7 +69,7 @@ Sou apaixonado por tecnologia e pela aplicação de **IA, Machine Learning e Dee
 ---
 
 ## 🌟 Sobre mim
-Curioso por natureza, gosto de unir **engenharia de software** e **ciência de dados** para criar soluções práticas, escaláveis e impactantes. Meu objetivo é desenvolver projetos que facilitem a vida das pessoas e explorem o máximo potencial da **IA aplicada**.  
+Sou movido pela curiosidade e pela vontade de transformar ideias em soluções reais. Minha trajetória combina **engenharia de software** e **ciência de dados**, com foco em **IA e Machine Learning** para resolver problemas complexos de forma prática, escalável e inovadora. Tenho como missão desenvolver sistemas inteligentes que **gerem impacto positivo**, seja otimizando processos, apoiando decisões estratégicas ou criando novas experiências digitais. Acredito que a tecnologia é uma ferramenta poderosa para melhorar a vida das pessoas e abrir caminho para o futuro — e é nesse propósito que concentro minha energia. Sempre em busca de novos desafios, estou constantemente aprendendo, explorando tendências de **IA aplicada, LLMs e Deep Learning**, e colocando esse conhecimento em prática em projetos de ponta.  
 
 ---
 
