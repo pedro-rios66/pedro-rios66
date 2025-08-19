@@ -75,7 +75,8 @@ Sou movido pela curiosidade e pela vontade de transformar ideias em soluções r
 ---
 
 📫 Conecte-se comigo:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedro-rios-a7a20733b)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedro-rios-a7a20733b) 
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ptomas12102002@gmail.com)  
 
 
 
