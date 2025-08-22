@@ -46,7 +46,7 @@ Sou apaixonado por tecnologia e pela aplicação de **IA, Machine Learning e Dee
 ---
 
 ## 📌 Projetos em Destaque  
-- 🛡️ **Detecção de Fraudes com IA** – modelo Random Forest detectando >99% de fraudes.  
+- 🛡️ **Detecção de Fraudes Financeiras com IA** – modelo Random Forest detectando >99% de fraudes.  
 - 📈 **Previsão de Receita** – regressão linear para pequenos negócios (MAE < R$ 200).  
 - 🌍 **Classificação de Imagens de Satélite com CNNs** – +95% acurácia (EuroSAT).  
 - 📦 **API RESTful de Gestão de Estoque** – FastAPI + PostgreSQL com 90% menos inconsistências.  
